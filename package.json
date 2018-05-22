@@ -1,0 +1,11 @@
+{
+  "name": "ezlist",
+  "version": "1.0.0",
+  "description": "Telegram Bot to quickly copy, edit, and reference lists",
+  "main": "index.js",
+  "author": "Gabriel Lu",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
